@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/monsters-rolodex/static/css/main.52b7e4d8.chunk.css",
-    "main.js": "/monsters-rolodex/static/js/main.703bad04.chunk.js",
-    "main.js.map": "/monsters-rolodex/static/js/main.703bad04.chunk.js.map",
-    "runtime-main.js": "/monsters-rolodex/static/js/runtime-main.90c257c0.js",
-    "runtime-main.js.map": "/monsters-rolodex/static/js/runtime-main.90c257c0.js.map",
-    "static/js/2.0f016ff5.chunk.js": "/monsters-rolodex/static/js/2.0f016ff5.chunk.js",
-    "static/js/2.0f016ff5.chunk.js.map": "/monsters-rolodex/static/js/2.0f016ff5.chunk.js.map",
-    "static/js/3.a351de9a.chunk.js": "/monsters-rolodex/static/js/3.a351de9a.chunk.js",
-    "static/js/3.a351de9a.chunk.js.map": "/monsters-rolodex/static/js/3.a351de9a.chunk.js.map",
-    "index.html": "/monsters-rolodex/index.html",
-    "static/css/main.52b7e4d8.chunk.css.map": "/monsters-rolodex/static/css/main.52b7e4d8.chunk.css.map",
-    "static/js/2.0f016ff5.chunk.js.LICENSE.txt": "/monsters-rolodex/static/js/2.0f016ff5.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/monsters-rolodex/static/media/logo.6ce24c58.svg"
+    "main.css": "/ReactBasic/static/css/main.52b7e4d8.chunk.css",
+    "main.js": "/ReactBasic/static/js/main.703bad04.chunk.js",
+    "main.js.map": "/ReactBasic/static/js/main.703bad04.chunk.js.map",
+    "runtime-main.js": "/ReactBasic/static/js/runtime-main.2c070bfb.js",
+    "runtime-main.js.map": "/ReactBasic/static/js/runtime-main.2c070bfb.js.map",
+    "static/js/2.0f016ff5.chunk.js": "/ReactBasic/static/js/2.0f016ff5.chunk.js",
+    "static/js/2.0f016ff5.chunk.js.map": "/ReactBasic/static/js/2.0f016ff5.chunk.js.map",
+    "static/js/3.a351de9a.chunk.js": "/ReactBasic/static/js/3.a351de9a.chunk.js",
+    "static/js/3.a351de9a.chunk.js.map": "/ReactBasic/static/js/3.a351de9a.chunk.js.map",
+    "index.html": "/ReactBasic/index.html",
+    "static/css/main.52b7e4d8.chunk.css.map": "/ReactBasic/static/css/main.52b7e4d8.chunk.css.map",
+    "static/js/2.0f016ff5.chunk.js.LICENSE.txt": "/ReactBasic/static/js/2.0f016ff5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ReactBasic/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.90c257c0.js",
+    "static/js/runtime-main.2c070bfb.js",
     "static/js/2.0f016ff5.chunk.js",
     "static/css/main.52b7e4d8.chunk.css",
     "static/js/main.703bad04.chunk.js"
